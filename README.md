@@ -1,0 +1,1 @@
+# accept-emptylist-in-plugin
